@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" alt="IT girl checking Grafana metrics and alerts" width="420" src="assets/profile.png">
+<img align="right" alt="IT girl checking Grafana metrics and alerts" width="420" src="assets/profile.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=manishaacharya111&label=Profile%20views&color=06b6d4&style=flat" alt="manishaacharya111" />
@@ -122,7 +122,7 @@ Cloud Infrastructure & DevOps Engineer with **2+ years of experience** designing
 <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" width="50" height="50"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="50" height="50"/></a>
-<a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" alt="SonarQube" width="50" height="50"/></a>
+<a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="50" height="50"/></a>
 <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gradle/02303A" alt="Gradle" width="50" height="50"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/bitbucket/0052CC" alt="Bitbucket" width="50" height="50"/></a>
