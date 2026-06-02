@@ -139,9 +139,9 @@ Cloud Infrastructure & DevOps Engineer with **2+ years of experience** designing
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishaacharya111&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=manishaacharya111&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishaacharya111&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=manishaacharya111&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
