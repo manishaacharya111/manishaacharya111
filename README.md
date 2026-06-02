@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me
 
-Cloud Infrastructure & DevOps Engineer with **4+ years of experience** designing, automating, and securing AWS-based platforms at scale. Managed infrastructure across **12+ AWS accounts**, modernised EKS workloads, and built end-to-end security automation pipelines at Zivver in Amsterdam. Passionate about cloud-native tooling, observability, and AI-assisted engineering.
+Cloud Infrastructure & DevOps Engineer with **2+ years of experience** designing, automating, and securing AWS-based platforms at scale. Managed infrastructure across **12+ AWS accounts**, modernised EKS workloads, and built end-to-end security automation pipelines at Zivver in Amsterdam. Passionate about cloud-native tooling, observability, and AI-assisted engineering.
 
 📍 Amsterdam, Netherlands &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/manisha-ac/)
 
